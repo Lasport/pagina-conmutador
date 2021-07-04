@@ -1,0 +1,16 @@
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.exe
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.deps.json
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.runtimeconfig.json
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.runtimeconfig.dev.json
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.dll
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\ref\pagina-conmutador.dll
+C:\Users\chino\Desktop\pagina-conmutador\bin\Debug\net5.0\pagina-conmutador.pdb
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.csproj.AssemblyReference.cache
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.AssemblyInfoInputs.cache
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.AssemblyInfo.cs
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.csproj.CoreCompileInputs.cache
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.dll
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\ref\pagina-conmutador.dll
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.pdb
+C:\Users\chino\Desktop\pagina-conmutador\obj\Debug\net5.0\pagina-conmutador.genruntimeconfig.cache
